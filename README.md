@@ -1,2 +1,2 @@
 # LandMarkBook
- Giriş Seviye Android Çalışması.
+ Simple level android intro app coded using Java and Android Studio.
